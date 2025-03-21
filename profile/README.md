@@ -1,12 +1,13 @@
 <div align="center">
   <div style="background-color: #f8f9fa; padding: 20px; border-radius: 16px; display: inline-block; margin-bottom: 10px;">
-    <img src="https://github.com/user-attachments/assets/8757473a-59d1-4309-b6a7-2299f418637c" width="80" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/8757473a-59d1-4309-b6a7-2299f418637c" width="160" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   <h1>升华工作室 | 54shenghua</h1>
   
   <p>
     <a href="https://github.com/54shenghua"><img src="https://img.shields.io/github/stars/54shenghua?style=flat-square&logo=github&color=ffd700" alt="GitHub Stars"></a>
-  <a href="https://github.com/54shenghua?tab=followers"><img src="https://img.shields.io/github/followers/54shenghua?style=flat-square&logo=github" alt="GitHub Followers"></a>
+    <a href="https://github.com/54shenghua?tab=followers"><img src="https://img.shields.io/github/followers/54shenghua?style=flat-square&logo=github" alt="GitHub Followers"></a>
+<!--     <a href="#"><img src="https://img.shields.io/badge/官网-Live-blue?style=flat-square&logo=vercel" alt="Website"></a> -->
   </p>
 
   <h3> 盛世升华，服务中南 </h3>
@@ -38,22 +39,20 @@
 ## 🛠 技术矩阵
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TS"></td>
-      <td><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue"></td>
-      <td><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"></td>
-      <td><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node"></td>
-      <td><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"></td>
-      <td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot"></td>
-      <td><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"></td>
-      <td><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"></td>
-      <td><img src="https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" alt="Nuxt.js"></td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TS">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" alt="Nuxt.js">
+  </p>
 </div>
 
 ---
