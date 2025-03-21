@@ -1,6 +1,6 @@
 <div align="center">
   <div style="background-color: #f8f9fa; padding: 20px; border-radius: 16px; display: inline-block; margin-bottom: 10px;">
-    <img src="https://github.com/user-attachments/assets/8757473a-59d1-4309-b6a7-2299f418637c" width="160" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/8757473a-59d1-4309-b6a7-2299f418637c" width="80" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   <h1>升华工作室 | 54shenghua</h1>
   
