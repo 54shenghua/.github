@@ -5,12 +5,15 @@
   <h1>升华工作室 | 54shenghua</h1>
   
   <p>
-    <a href="https://github.com/54shenghua"><img src="https://img.shields.io/github/stars/54shenghua?style=flat-square&logo=github&color=ffd700" alt="GitHub Stars"></a>
-    <a href="https://github.com/54shenghua?tab=followers"><img src="https://img.shields.io/github/followers/54shenghua?style=flat-square&logo=github" alt="GitHub Followers"></a>
-<!--     <a href="#"><img src="https://img.shields.io/badge/官网-Live-blue?style=flat-square&logo=vercel" alt="Website"></a> -->
+
+<!-- <a href="#"><img src="https://img.shields.io/badge/官网-Live-blue?style=flat-square&logo=vercel" alt="Website"></a> -->
   </p>
 
   <h3> 盛世升华，服务中南 </h3>
+  <img src="./static/tuanzi_footer.webp" alt="csu-tuanzi">
+
+  <a href="https://github.com/54shenghua"><img src="https://img.shields.io/github/stars/54shenghua?style=flat-square&logo=github&color=ffd700" alt="GitHub Stars"></a>
+  <a href="https://github.com/54shenghua?tab=followers"><img src="https://img.shields.io/github/followers/54shenghua?style=flat-square&logo=github" alt="GitHub Followers"></a>
 </div>
 
 ---
