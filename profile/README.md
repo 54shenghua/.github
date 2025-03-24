@@ -5,18 +5,22 @@
   <h1>升华工作室 | 54shenghua</h1>
   
   <p>
-    <a href="https://github.com/54shenghua"><img src="https://img.shields.io/github/stars/54shenghua?style=flat-square&logo=github&color=ffd700" alt="GitHub Stars"></a>
-    <a href="https://github.com/54shenghua?tab=followers"><img src="https://img.shields.io/github/followers/54shenghua?style=flat-square&logo=github" alt="GitHub Followers"></a>
-<!--     <a href="#"><img src="https://img.shields.io/badge/官网-Live-blue?style=flat-square&logo=vercel" alt="Website"></a> -->
+
+<!-- <a href="#"><img src="https://img.shields.io/badge/官网-Live-blue?style=flat-square&logo=vercel" alt="Website"></a> -->
   </p>
 
   <h3> 盛世升华，服务中南 </h3>
+  <img src="./static/tuanzi_footer.webp" alt="csu-tuanzi">
+
+  <a href="https://github.com/54shenghua"><img src="https://img.shields.io/github/stars/54shenghua?style=flat-square&logo=github&color=ffd700" alt="GitHub Stars"></a>
+  <a href="https://github.com/54shenghua?tab=followers"><img src="https://img.shields.io/github/followers/54shenghua?style=flat-square&logo=github" alt="GitHub Followers"></a>
 </div>
 
 ---
 
 ## 🌟 核心价值
 
+<div align="center">
 <table>
   <tr>
     <td width="30%">🚀 技术前沿</td>
@@ -33,6 +37,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -40,18 +45,22 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TS">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node">
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" alt="TypeScript">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg" alt="Vue">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg" alt="ViteJS">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" alt="React">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="NodeJS">
   </p>
   <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" alt="Python">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" alt="Docker">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" alt="MySQL">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg" alt="FastAPI">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" alt="Next.js">
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot">
-    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
-    <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" alt="Nuxt.js">
+    <img src="https://img.shields.io/badge/Nuxt.js-00DC82%3FlogoColor%3Dfff?logo=data%3Aimage%2Fsvg%2Bxml%3Bcharset%3Dutf-8%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgd2lkdGg9JzI0JyBoZWlnaHQ9JzI0Jz48cGF0aCBmaWxsPSdibGFjaycgZD0nTTEzLjQ2NCAxOS44M2g4LjkyMmMuMjgzIDAgLjU2Mi0uMDczLjgwNy0uMjFhMS42IDEuNiAwIDAgMCAuNTkxLS41NzRhMS41MyAxLjUzIDAgMCAwIC4yMTYtLjc4M2ExLjUzIDEuNTMgMCAwIDAtLjIxNy0uNzgyTDE3Ljc5MiA3LjQxNGExLjYgMS42IDAgMCAwLS41OTEtLjU3M2ExLjY1IDEuNjUgMCAwIDAtLjgwNy0uMjFjLS4yODMgMC0uNTYyLjA3My0uODA3LjIxYTEuNiAxLjYgMCAwIDAtLjU5LjU3M0wxMy40NjMgOS45OUwxMC40NyA0Ljk1M2ExLjYgMS42IDAgMCAwLS41OTEtLjU3M2ExLjY1IDEuNjUgMCAwIDAtLjgwNy0uMjFjLS4yODQgMC0uNTYyLjA3My0uODA3LjIxYTEuNiAxLjYgMCAwIDAtLjU5MS41NzNMLjIxNiAxNy40ODFhMS41MyAxLjUzIDAgMCAwLS4yMTcuNzgyYzAgLjI3NS4wNzQuNTQ1LjIxNi43ODNhMS42IDEuNiAwIDAgMCAuNTkuNTc0Yy4yNDYuMTM3LjUyNS4yMS44MDguMjFoNS42YzIuMjIgMCAzLjg1Ni0uOTQ2IDQuOTgyLTIuNzlsMi43MzMtNC41OTNsMS40NjQtMi40NTdsNC4zOTUgNy4zODJoLTUuODU5Wm0tNi4zNDEtMi40NmwtMy45MDgtLjAwMmw1Ljg1OC05Ljg0MmwyLjkyMyA0LjkyMWwtMS45NTcgMy4yOWMtLjc0OCAxLjE5Ni0xLjU5NyAxLjYzMi0yLjkxNiAxLjYzMicvPjwvc3ZnPg%3D%3D" alt="Nuxt.js">
   </p>
 </div>
 
