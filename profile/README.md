@@ -109,7 +109,5 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/54shenghua/count.svg" alt="Visitor Count">
-  <br/>
   <p>✨ 期待与你共同书写技术篇章 ✨</p>
 </div>
