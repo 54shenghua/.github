@@ -3,7 +3,7 @@
     <img src="https://github.com/user-attachments/assets/8757473a-59d1-4309-b6a7-2299f418637c" width="160" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   <h1>升华工作室 | 54shenghua</h1>
-  
+  共青团中南大学委员会网络信息部
   <p>
 
 <!-- <a href="#"><img src="https://img.shields.io/badge/官网-Live-blue?style=flat-square&logo=vercel" alt="Website"></a> -->
@@ -23,21 +23,24 @@
 <div align="center">
 <table>
   <tr>
-    <td width="30%">🚀 技术前沿</td>
-    <td width="30%">🎨 创意设计</td>
-    <td width="40%">🤝 团队协作</td>
+    <td>🚀 技术前沿</td>
+    <td>🎨 创意设计</td>
+    <td>🤝 团队协作</td>
   </tr>
   <tr>
     <td colspan="3">
       <ul>
-        <li>采用Vue3/React18等最新技术栈</li>
-        <li>年均开发5+校园应用系统</li>
-        <li>代码总量10万行+</li>
+        <li>采用 Vue/React 等先进技术栈</li>
+        <li>年均开发 5+ 校园应用系统，服务全校师生</li>
+        <li>代码总量 10 万行+</li>
       </ul>
     </td>
   </tr>
 </table>
 </div>
+
+> [!TIP]
+> 代码量不能说明什么，唯一能说明服务中南的初心不会改变
 
 ---
 
@@ -72,12 +75,31 @@
   <!-- 项目卡片 1 -->
   <div style="background: #f5f5f5; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
     <h3>🎓 <a href="https://github.com/54shenghua/54sh-web">54sh-web</a></h3>
-    <p>中南大学校团委官网重构</p>
+    <p>中南大学校团委官网“升华网”</p>
     <div>
       <img src="https://img.shields.io/github/last-commit/54shenghua/54sh-web?color=blue" alt="Last Commit">
       <img src="https://img.shields.io/github/stars/54shenghua/54sh-web?style=social" alt="Stars">
     </div>
   </div>
+
+  悦动青春项目群
+  - App 矩阵：iOS、Android（KMP跨平台构建），HarmonyOS（ArkTS）
+  - 网页端（用户端+客户端）：Vue
+  - 安全基础设施（反作弊）：数据安全原因暂不公开技术
+  - 后端：Springboot 强力驱动，mariadb 持久化存储，redis 高效数据存取，rabbitMQ 消息队列
+
+  中南大学社团管理系统
+  - 网页端：Vue
+  - 后端：FastAPI（旧版）、Springboot（新版），使用 mariadb
+
+  团委信箱
+  - 网页端：Vue
+  - 后端：GIN
+
+  中南大学电气工程学院官网
+  - 前端：Vanilla.js
+
+  
 </div>
 
 ---
@@ -87,9 +109,9 @@
 <div>
   
 **🔍 招新方向**
-- 前端开发工程师
-- 后端开发工程师
-- UI/UX设计师
+- 前端开发工程师（网络部）
+- 后端开发工程师（程序部）
+- UI/UX设计师（美工部）
 - 办公室
 
 </div>
@@ -105,9 +127,13 @@
 </div>
 
 <div align="center">
-  🏛️ 中南大学毓秀楼409室
+  🏛️ 中南大学毓秀楼 409 办公室
+  
+  水群 874116810
 </div>
 
 <div align="center">
   <p>✨ 期待与你共同书写技术篇章 ✨</p>
 </div>
+
+---
